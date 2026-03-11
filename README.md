@@ -2,11 +2,6 @@
 
 Flix App é uma aplicação desenvolvida em Streamlit que consome uma API de filmes. O sistema permite visualizar e gerenciar informações relacionadas a filmes, atores, gêneros e avaliações.
 
-## Aplicação Online
-
-A aplicação pode ser acessada em:
-https://seu-app.streamlit.app
-
 ## Requisitos
 
 Certifique-se de que os seguintes itens estejam instalados em seu sistema:
